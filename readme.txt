@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsopleb%2Fhttp-security.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsopleb%2Fhttp-security?ref=badge_shield)
+
 === Plugin Name ===
 Plugin Name: HTTP headers to improve web site security
 Description: Use your HTTP header to improve security of your web site
@@ -147,3 +149,6 @@ Check the HTTP headers of your web site.
 
 = 1.7.3 =
 * Due to a file name change to comply with WordPress guidelines, plug in needs to be uninstalled and reinstalled.
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsopleb%2Fhttp-security.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsopleb%2Fhttp-security?ref=badge_large)
