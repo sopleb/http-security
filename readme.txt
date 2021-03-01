@@ -1,4 +1,27 @@
-=== Plugin Name ===
+=== Old Plugin Name ===
+Plugin Name: Security Headers Plugin
+Description: HTTP Security Headers
+Tags: security, HTTP headers, HSTS, HTTPS, CSP
+Version: 1.0.0
+Author: sopleb
+Author URI: https://bot.rip
+License: GPL2
+Text Domain: http-security
+
+Use your HTTP header to improve security of your web site
+
+== Description ==
+
+This plug-in helps setting up the various header instructions included in the HTTP protocol allowing for simple improvement of your website security.
+
+Changed for Permissions-Policy
+
+
+
+
+
+
+=== Old Plugin Name ===
 Plugin Name: HTTP headers to improve web site security
 Description: Use your HTTP header to improve security of your web site
 Contributors: carlconrad
@@ -14,7 +37,7 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Use your HTTP header to improve security of your web site
 
-== Description ==
+== Old Description ==
 
 This plug-in helps setting up the various header instructions included in the HTTP protocol allowing for simple improvement of your website security.
 
